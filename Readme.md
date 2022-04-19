@@ -17,4 +17,4 @@ This Repo is just a documentation of course.
 Mentored by [Hitesh Chaudhry](https://www.youtube.com/c/HiteshChoudharydotcom). 
 
 ![Course Completion](./completion.jpeg)
-> Duration : 17th Feb 2022 to 19th Feb 2022.
+> Duration : 17th April 2022 to 19th April 2022.

@@ -1,0 +1,9 @@
+h1{
+    position: relative;
+    /* Pos -> position */
+    position: static;
+    position: fixed;
+    /* pos:<value shortform> */
+    display: inline;
+    /* d:i -> display inline  */
+}
